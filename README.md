@@ -119,8 +119,6 @@ Contribuições são muito bem‑vindas! Sinta‑se à vontade para:
 - Enviar pull requests com novos recursos ou melhorias.  
 - Discutir no discussions sobre métodos de resolução, interfaces ou performance.
 
-Antes de submeter, por favor siga as diretrizes de estilo no arquivo CONTRIBUTING.md.
-
 ------------------------------------------------------------------------------------------------------------------------
 
 Referências
