@@ -8,7 +8,7 @@ Universidade Federal do Delta do Parnaíba (UFDPar)
 Tema do Trabalho: Rubik's Cube: Uma Abordagem Computacional Usando Python
 
 Desenvolvido por: 
-André Luis Araújo Oliveira  
+André Luis Araujo Oliveira  
 
 Orientado por: 
 Prof. Dr. Paulo Sérgio Marques dos Santos
