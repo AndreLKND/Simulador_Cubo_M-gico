@@ -1,5 +1,5 @@
 ========================================================================================================================
-				                     SIMULADOR DE CUBO MÁGICO INTERATIVO USANDO PYTHON
+				  SIMULADOR DE CUBO MÁGICO INTERATIVO USANDO PYTHON
 ========================================================================================================================
 
 Projeto para obtenção do título de Graduação em Licenciatura em Matemática 
